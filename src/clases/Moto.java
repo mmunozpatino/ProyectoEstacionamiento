@@ -9,6 +9,8 @@ package clases;
  *
  * @author Mercedes
  */
+
+ //comentario mechi
 public class Moto extends Vehiculo{
 
     public Moto(String patente) {
