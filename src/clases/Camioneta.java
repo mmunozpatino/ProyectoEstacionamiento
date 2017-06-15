@@ -9,6 +9,8 @@ package clases;
  *
  * @author Mercedes
  */
+
+ //holaaa
 public class Camioneta extends Vehiculo{
 
     public Camioneta(String patente) {
